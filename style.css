@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(219, 226,226);
+}
+
+.row{
+    background: white;
+    border-radius: 30px;
+}
+img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+.btn1:hover{
+    background:beige;
+    border: 1px solid;
+    color: black;
+
+}
+.container{
+
+    margin-top: 90px;
+}
+.tk{
+
+    border-radius: 30px;
+    font-weight: bold;
+    text-align: center;
+    
+}
